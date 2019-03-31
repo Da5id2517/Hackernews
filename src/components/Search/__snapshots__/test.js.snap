@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search has valid snap. 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <input
+    onChange={[Function]}
+    type="text"
+    value="test_string"
+  />
+  <button
+    type="submit"
+  >
+    test_string
+  </button>
+</form>
+`;

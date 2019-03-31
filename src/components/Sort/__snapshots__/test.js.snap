@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search has valid snap 1`] = `
+<button
+  className="button-inline button-active"
+  onClick={[Function]}
+  type="button"
+>
+  test_string
+</button>
+`;
